@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Myvie</string>
+    <string name="menu_profile">profile</string>
+    <string name="menu_movie">popular</string>
+    <string name="menu_date">date</string>
+    <string name="description">description</string>
+</resources>
